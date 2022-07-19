@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T19:47:06.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gcIr4TuwzeUSJLgBWhgg" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T19:52:39.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QS53qJ8cxqqpXEeR4F8p" version="20.1.1" type="github">
   <diagram id="xYu9bZw6X5f-FNDAe_DN" name="Page-1">
     <mxGraphModel dx="1673" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iyr3FcFBfqyZehb2SKoS-59" value="Saving Account" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-90" width="160" height="120" as="geometry" />
+          <mxGeometry x="580" y="-110" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iyr3FcFBfqyZehb2SKoS-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.533;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Iyr3FcFBfqyZehb2SKoS-59" target="Iyr3FcFBfqyZehb2SKoS-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -172,6 +172,12 @@
             <mxPoint x="620" y="290" as="sourcePoint" />
             <mxPoint x="670" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Iyr3FcFBfqyZehb2SKoS-77" value="SND ID&lt;br&gt;Account ID&lt;br&gt;Customer ID&lt;br&gt;Interest rate&lt;br&gt;Time limit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="135" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Iyr3FcFBfqyZehb2SKoS-78" value="Saving account ID&lt;br&gt;customer ID&lt;br&gt;Account ID&lt;br&gt;Interest ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-75" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
